@@ -24,7 +24,7 @@ Atualmente trabalho como **Assistente de TI em um supermercado**, onde atuo com 
 ## 🌐 Redes sociais
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/ericktcosta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/erick.t.costa/" target="_blank">
